@@ -26,6 +26,6 @@
   <a href = "mailto:lucianefernandescdf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<script src="https://gist.github.com/LucianeFernandesRoque/780646b51e01d1e6e31d4ca06930c1cc.js"></script>
+
 
 
