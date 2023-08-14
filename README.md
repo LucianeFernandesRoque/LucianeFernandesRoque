@@ -1,24 +1,24 @@
-### Hi! My name is Luciane, but I like to call me Lu
+# Hi there! 👋 Welcome to my profile!
+
+## About Me
+Hello! My name is **Luciane Fernandes Roque**. Here's a little bit about me:
+- 💻 I hold a degree in Internet Systems.
+- 💼 I have experience in programming and a strong passion for continuous learning.
+- ⚙️ I'm skilled in backend development and also possess some knowledge in frontend.
+
+#### Skills
+- Developer: Back-End (Ruby on Rails)
+
+#### Tools:
+<img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+#### Feel free to explore my profile and get to know more about my journey in the world of programming!
 
 - 🔭 I’m Developer and I love 👩‍💻,🎸and 📚
-- 🌱 I’m currently learning React,TypeScript and docker
 - 😄 Pronouns: she/her
-
-<div align="center">
-  <a href="https://github.com/lucianefernandesroque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianefernandesroque&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianefernandesroque&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div style="display: inline_block"><br>
- <img align="center" alt="Lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
-  <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-</div>
 
 ##
 <div>
