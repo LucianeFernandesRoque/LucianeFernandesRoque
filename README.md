@@ -10,10 +10,12 @@ Hello! My name is **Luciane Fernandes Roque**. Here's a little bit about me:
 - Developer: Back-End (Ruby on Rails)
 
 #### Tools:
+<p>
 <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
 <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</p>
 
 #### Feel free to explore my profile and get to know more about my journey in the world of programming!
 
